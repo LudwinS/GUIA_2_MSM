@@ -1,0 +1,18 @@
+   html{
+    background-color: black;
+    color: white;
+   } 
+   header{
+      text-align: justify;
+   }
+   h3{
+    text-decoration: wavy;
+   }
+   section{
+    font-family : Helvetica;
+    font-size: 12pt;
+    text-align: justify;
+   }
+   footer{
+    text-align: center;
+   }
